@@ -22,10 +22,10 @@ const Navbar = () => {
             JEWELRY
           </Link>
           <Link className="navbar__link relative" href="#">
-            PERFUME
+            PERFUMES
           </Link>
           <Link className="navbar__link relative" href="#">
-            BLOG
+            BLOGS
           </Link>
           <Link className="navbar__link relative" href="#">
             HOT OFFERS

@@ -3,7 +3,7 @@ import { BsFacebook, BsTwitter, BsInstagram, BsLinkedin } from "react-icons/bs";
 
 const HeaderTop = () => {
   return (
-    <div className="border-b border-gray-300 hidden sm:block">
+    <div className="border-b border-gray-200 hidden sm:block">
       <div className="container py-4">
         <div className="flex justify-between items-center">
           <div className="hidden lg:flex gap-1">
